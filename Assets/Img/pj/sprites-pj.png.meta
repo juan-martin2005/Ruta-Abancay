@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 343a835edc594b648832d5f37693e1bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7452307603763417509
+    second: sprites-pj_0
+  - first:
+      213: -3980131500023867485
+    second: sprites-pj_1
+  - first:
+      213: -1825654791609082965
+    second: sprites-pj_2
+  - first:
+      213: -9128493858387164728
+    second: sprites-pj_3
+  - first:
+      213: -8755099539055206541
+    second: sprites-pj_4
+  - first:
+      213: -8522277348884460437
+    second: sprites-pj_5
+  - first:
+      213: -7744259168599841030
+    second: sprites-pj_6
+  - first:
+      213: 7460989014729498259
+    second: sprites-pj_7
+  - first:
+      213: 3781787996622485391
+    second: sprites-pj_8
+  - first:
+      213: 4104996579800631296
+    second: sprites-pj_9
+  - first:
+      213: -7749282517554267910
+    second: sprites-pj_10
+  - first:
+      213: -1462547283245352594
+    second: sprites-pj_11
+  - first:
+      213: -7581159975440970384
+    second: sprites-pj_12
+  - first:
+      213: 5757128319723807064
+    second: sprites-pj_13
+  - first:
+      213: 6375605342570616585
+    second: sprites-pj_14
+  - first:
+      213: -5548417525246710746
+    second: sprites-pj_15
+  - first:
+      213: -131399580539029641
+    second: sprites-pj_16
+  - first:
+      213: -4181405534661154700
+    second: sprites-pj_17
+  - first:
+      213: -1720563338186336168
+    second: sprites-pj_18
+  - first:
+      213: -7837813918825402081
+    second: sprites-pj_19
+  - first:
+      213: 3439267375618313986
+    second: sprites-pj_20
+  - first:
+      213: -1195798533357278899
+    second: sprites-pj_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites-pj_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 980
+        width: 157
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1d247184aeb6760800000000000000
+      internalID: 7452307603763417509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 979
+        width: 155
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a71cb50d7bb3c8c0800000000000000
+      internalID: -3980131500023867485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_2
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 981
+        width: 159
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab96a7c3a8f9a6e0800000000000000
+      internalID: -1825654791609082965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_3
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 979
+        width: 157
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c18f7c5333115180800000000000000
+      internalID: -9128493858387164728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 658
+        width: 149
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f9d611b53af7680800000000000000
+      internalID: -8755099539055206541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 658
+        width: 148
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c426677e9cab980800000000000000
+      internalID: -8522277348884460437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 660
+        width: 145
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af66b07215dd68490800000000000000
+      internalID: -7744259168599841030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 660
+        width: 148
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e1b089af1ca8760800000000000000
+      internalID: 7460989014729498259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_8
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 660
+        width: 155
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87f48a652c9b7430800000000000000
+      internalID: 3781787996622485391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_9
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 658
+        width: 150
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008c53fd3a0e7f830800000000000000
+      internalID: 4104996579800631296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 354
+        width: 179
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af878059b94057490800000000000000
+      internalID: -7749282517554267910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 354
+        width: 146
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69b2faaefcf3bbe0800000000000000
+      internalID: -1462547283245352594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 354
+        width: 182
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d8e664b2f4ac690800000000000000
+      internalID: -7581159975440970384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 353
+        width: 165
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851aa7744bd65ef40800000000000000
+      internalID: 5757128319723807064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_14
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 354
+        width: 163
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90711089743ba7850800000000000000
+      internalID: 6375605342570616585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 357
+        width: 172
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c2e1658af0003b0800000000000000
+      internalID: -5548417525246710746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 153
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f55617cc2d2ef0800000000000000
+      internalID: -131399580539029641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 9
+        width: 134
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4786bacf1d9a8f5c0800000000000000
+      internalID: -4181405534661154700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 36
+        width: 166
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858d7d582c45f18e0800000000000000
+      internalID: -1720563338186336168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 89
+        width: 162
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11bcc074cd7a3390800000000000000
+      internalID: -7837813918825402081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_20
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 9
+        width: 146
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fc153c47bbabf20800000000000000
+      internalID: 3439267375618313986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-pj_21
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d496e4cc19ba76fe0800000000000000
+      internalID: -1195798533357278899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d88d9344cb563544db85cc255bb4a8e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprites-pj_0: 7452307603763417509
+      sprites-pj_1: -3980131500023867485
+      sprites-pj_10: -7749282517554267910
+      sprites-pj_11: -1462547283245352594
+      sprites-pj_12: -7581159975440970384
+      sprites-pj_13: 5757128319723807064
+      sprites-pj_14: 6375605342570616585
+      sprites-pj_15: -5548417525246710746
+      sprites-pj_16: -131399580539029641
+      sprites-pj_17: -4181405534661154700
+      sprites-pj_18: -1720563338186336168
+      sprites-pj_19: -7837813918825402081
+      sprites-pj_2: -1825654791609082965
+      sprites-pj_20: 3439267375618313986
+      sprites-pj_21: -1195798533357278899
+      sprites-pj_3: -9128493858387164728
+      sprites-pj_4: -8755099539055206541
+      sprites-pj_5: -8522277348884460437
+      sprites-pj_6: -7744259168599841030
+      sprites-pj_7: 7460989014729498259
+      sprites-pj_8: 3781787996622485391
+      sprites-pj_9: 4104996579800631296
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
