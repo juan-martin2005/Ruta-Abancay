@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: afab06fcb22ded544829b3dd95743947
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1258974613825118446
+    second: Sprite_Corriendo_0
+  - first:
+      213: 2636452114823592128
+    second: Sprite_Corriendo_1
+  - first:
+      213: -2069188950451276723
+    second: Sprite_Corriendo_2
+  - first:
+      213: 5290115936450587359
+    second: Sprite_Corriendo_3
+  - first:
+      213: -1478026471176653002
+    second: Sprite_Corriendo_4
+  - first:
+      213: -1032651181399329359
+    second: Sprite_Corriendo_5
+  - first:
+      213: -8758777404851120276
+    second: Sprite_Corriendo_6
+  - first:
+      213: 1265151753983301851
+    second: Sprite_Corriendo_7
+  - first:
+      213: 7344753172503644336
+    second: Sprite_Corriendo_8
+  - first:
+      213: 2336497940708428637
+    second: Sprite_Corriendo_9
+  - first:
+      213: -366403975247358904
+    second: Sprite_Corriendo_10
+  - first:
+      213: 85700684925829290
+    second: Sprite_Corriendo_11
+  - first:
+      213: 4325994816105538945
+    second: Sprite_Corriendo_12
+  - first:
+      213: 8375232098806364544
+    second: Sprite_Corriendo_13
+  - first:
+      213: 402952934366684685
+    second: Sprite_Corriendo_14
+  - first:
+      213: 3341488383680561473
+    second: Sprite_Corriendo_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_Corriendo_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 741
+        width: 243
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f18b15249378ee0800000000000000
+      internalID: -1258974613825118446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 738
+        width: 196
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8336bda3f869420800000000000000
+      internalID: 2636452114823592128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 757
+        width: 235
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d443033dc93c843e0800000000000000
+      internalID: -2069188950451276723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_3
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 738
+        width: 205
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda25cc7a644a6940800000000000000
+      internalID: 5290115936450587359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 500
+        width: 252
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63734e061cefc7be0800000000000000
+      internalID: -1478026471176653002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 503
+        width: 249
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b53ec3c8394ba1f0800000000000000
+      internalID: -1032651181399329359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_6
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 498
+        width: 189
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6791253b52927680800000000000000
+      internalID: -8758777404851120276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_7
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 494
+        width: 210
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8132331d8be8110800000000000000
+      internalID: 1265151753983301851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 269
+        width: 254
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8c002a81ecde560800000000000000
+      internalID: 7344753172503644336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 269
+        width: 192
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b8b5e6f78ec6020800000000000000
+      internalID: 2336497940708428637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_10
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 277
+        width: 251
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844171b96854aeaf0800000000000000
+      internalID: -366403975247358904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_11
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 266
+        width: 235
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00302a158703100800000000000000
+      internalID: 85700684925829290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 35
+        width: 220
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185e62a7d55090c30800000000000000
+      internalID: 4325994816105538945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 34
+        width: 185
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0897dc0583dca3470800000000000000
+      internalID: 8375232098806364544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_14
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 35
+        width: 208
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06a0221f83979500800000000000000
+      internalID: 402952934366684685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Corriendo_15
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 34
+        width: 177
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141cf522bf95f5e20800000000000000
+      internalID: 3341488383680561473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite_Corriendo_0: -1258974613825118446
+      Sprite_Corriendo_1: 2636452114823592128
+      Sprite_Corriendo_10: -366403975247358904
+      Sprite_Corriendo_11: 85700684925829290
+      Sprite_Corriendo_12: 4325994816105538945
+      Sprite_Corriendo_13: 8375232098806364544
+      Sprite_Corriendo_14: 402952934366684685
+      Sprite_Corriendo_15: 3341488383680561473
+      Sprite_Corriendo_2: -2069188950451276723
+      Sprite_Corriendo_3: 5290115936450587359
+      Sprite_Corriendo_4: -1478026471176653002
+      Sprite_Corriendo_5: -1032651181399329359
+      Sprite_Corriendo_6: -8758777404851120276
+      Sprite_Corriendo_7: 1265151753983301851
+      Sprite_Corriendo_8: 7344753172503644336
+      Sprite_Corriendo_9: 2336497940708428637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

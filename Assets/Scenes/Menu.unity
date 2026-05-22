@@ -234,7 +234,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4938904925403426689, guid: 4d50b3dac382c97439535077a2088082, type: 3}
+  m_Sprite: {fileID: -4938904925403426689, guid: e50a3e15c715c9c41ac301025beee603, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -306,14 +306,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1955448553306655712, guid: a2fcaf74df4e4074884f2af1918a9b4f, type: 3}
+  m_Sprite: {fileID: -1955448553306655712, guid: 1591ae9a373eeb842a8e7a7bae15e573, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -340,7 +340,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 451808072}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d73d7cf6be313eb41bb07dced96b3176, type: 3}
+  m_Script: {fileID: 11500000, guid: 2244538107e9c184f894e886736cc3e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MainMenu
 --- !u!1 &843104864
@@ -561,7 +561,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -7113479977989563460, guid: 8b3271808e7e2dc44b01a56d5a1c61fb, type: 3}
+  m_Sprite: {fileID: -7113479977989563460, guid: 89f9fe4559096c246a13b69937884e36, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1321,7 +1321,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1922979618149193216, guid: 30cf61a0eb429d54d8c8762b934378e7, type: 3}
+  m_Sprite: {fileID: -1922979618149193216, guid: 32551fb4657fcbb43932b9274067f9b4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
