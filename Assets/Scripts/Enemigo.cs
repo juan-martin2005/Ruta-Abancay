@@ -4,16 +4,14 @@ public class Enemigo : MonoBehaviour
 {
 
     public Transform jugador;
-    public float detectarRadio = 8.60f;
-    public float velocidad = 16.0f;
+    public float detectarRadio = 19f;
+    public float velocidad = 30f;
 
     private Rigidbody2D rb;
     private Vector2 movimiento;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-
-        
     }
 
     void Update()
@@ -23,6 +21,9 @@ public class Enemigo : MonoBehaviour
         {
             Vector2 direccion = (jugador.position - transform.position).normalized;
             movimiento = new Vector2(direccion.x, 0);
+
+            if (direccion.x < 0) transform.localScale = new Vector2(1f, 1f);
+            if (direccion.x > 0) transform.localScale = new Vector2(-1f, 1f);
         }
         else
         {
@@ -38,4 +39,5 @@ public class Enemigo : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, detectarRadio);
     }
+
 }

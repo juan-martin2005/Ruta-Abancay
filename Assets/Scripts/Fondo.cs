@@ -5,7 +5,7 @@ public class Fondo : MonoBehaviour
 {
     private Material material;
     [SerializeField] private Jugador jugador;
-    private readonly float velodidad = 0.18f;
+    private readonly float velodidad = 0.11f;
     void Start()
     {
         material = GetComponent<Renderer>().material;

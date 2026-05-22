@@ -5,8 +5,8 @@ public class Jugador : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator anim;
-    private readonly float velocidad = 2.7f;
-    private readonly float salto = 6.3f;
+    private readonly float velocidad = 4.7f;
+    private readonly float salto = 7.3f;
     public float movimiento;
     private bool isSalto = false;
     
@@ -37,7 +37,7 @@ public class Jugador : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, salto);
             isSalto = true;
         }
-
+        FlipCharacter();
 
     }
 
@@ -48,5 +48,11 @@ public class Jugador : MonoBehaviour
             isSalto = false;
         }
         
+    }
+
+    void FlipCharacter()
+    {
+        if (movimiento < 0) transform.localScale = new Vector2(-1f, 1f);
+        if (movimiento > 0) transform.localScale = new Vector2(1f, 1f);
     }
 }
