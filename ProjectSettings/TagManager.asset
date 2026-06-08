@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - piso
+  - Obstaculo
+  - Enemigo
+  - Jugador
+  - Suelo
   layers:
   - Default
   - TransparentFX
