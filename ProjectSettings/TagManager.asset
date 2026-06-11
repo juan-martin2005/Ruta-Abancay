@@ -9,6 +9,9 @@ TagManager:
   - Enemigo
   - Jugador
   - Suelo
+  - Punto
+  - Limite_Izq
+  - Limite_Der
   layers:
   - Default
   - TransparentFX

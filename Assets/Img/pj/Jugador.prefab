@@ -202,4 +202,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dae4e89ff9e687f42ad9a80adca22564, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Jugador
-  movimiento: 0
+  movimientoX: 0

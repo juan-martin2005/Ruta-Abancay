@@ -14,9 +14,9 @@ public class Fondo : MonoBehaviour
     void Update()
     {
         Vector2 vec = material.mainTextureOffset;
-        if (Math.Abs(jugador.movimiento) > 0.1f)
+        if (Math.Abs(jugador.movimientoX) > 0.1f)
         {
-            vec.x += jugador.movimiento * velodidad * Time.deltaTime;
+            vec.x += jugador.movimientoX * velodidad * Time.deltaTime;
             material.mainTextureOffset = vec;
         }
 

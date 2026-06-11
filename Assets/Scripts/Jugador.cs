@@ -5,16 +5,15 @@ public class Jugador : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator anim;
+
     private readonly float velocidad = 4.7f;
     private readonly float salto = 7.3f;
-    public float movimiento;
+    private readonly float velocidadReducida = 0.1f;
+
+    public float movimientoX;
     private bool isSalto = false;
     private bool estaAturdido = false;
-    private readonly float velocidadReducida = 0.1f;
-    private Animator jugadorAnim;
-    private readonly float velocidadCaminar = 3.0f; // Velocidad normal
-    private readonly float velocidadCorrer = 5.5f;  // Velocidad al correr
-    private bool estaCorriendo = false;
+    private bool intentoSalto = false;
 
 
     void Start()
@@ -25,35 +24,30 @@ public class Jugador : MonoBehaviour
 
     void Update()
     {
+        movimientoX = (Keyboard.current.dKey.isPressed ? 1 : 0) - (Keyboard.current.aKey.isPressed ? 1 : 0);
 
-        anim.SetFloat("movement", rb.linearVelocity.x);
+        if(Keyboard.current.spaceKey.isPressed && !isSalto) intentoSalto = true;
+
+        anim.SetFloat("movement", Mathf.Abs(rb.linearVelocity.x));
         anim.SetBool("isJumping", isSalto);
         anim.SetBool("isStumbled", estaAturdido);
     }
 
     private void FixedUpdate()
     {
-        // 1. Detectar si el jugador está presionando Shift Izquierdo para correr
-        estaCorriendo = Keyboard.current.leftShiftKey.isPressed;
 
-        // 2. Elegir la velocidad base dependiendo de si camina o corre
-        float velocidadBase = estaCorriendo ? velocidadCorrer : velocidadCaminar;
+        // Si está aturdido (por el bache), se aplica la velocidad reducida
+        float velocidadActual = estaAturdido ? velocidadReducida : velocidad;
 
-        // 3. Si está aturdido (por el bache), se aplica la velocidad reducida
-        float velocidad_actual = estaAturdido ? velocidadReducida : velocidadBase;
 
-        // 4. Leer el movimiento de las teclas A y D
-        movimiento = (Keyboard.current.dKey.isPressed ? 1 : 0) - (Keyboard.current.aKey.isPressed ? 1 : 0);
+        //Aplicar el movimiento al Rigidbody
+        rb.linearVelocity = new Vector2(velocidadActual * movimientoX, rb.linearVelocity.y);
 
-        // 5. Aplicar el movimiento al Rigidbody
-        rb.linearVelocity = new Vector2(velocidad_actual * movimiento, rb.linearVelocity.y);
-
-        // Código del salto...
-        bool saltar = Keyboard.current.spaceKey.isPressed;
-        if (saltar && !isSalto) // Añadido !isSalto para evitar saltos infinitos en el aire
+        if (intentoSalto) // Añadido !isSalto para evitar saltos infinitos en el aire
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, salto);
             isSalto = true;
+            intentoSalto = false;
         }
 
         FlipCharacter();
@@ -80,7 +74,7 @@ public class Jugador : MonoBehaviour
             estaAturdido = true;
 
             // El personaje se recuperará y volverá a su velocidad normal tras 2 segundos
-            Invoke("RecuperarVelocidad", 0.9f);
+            Invoke("RecuperarVelocidad", 0.3f);
         }
     }
 
@@ -89,26 +83,16 @@ public class Jugador : MonoBehaviour
         estaAturdido = false;
     }
 
-
-    public void estaAhorcando(float tiempo)
-    {
-        // 1. Detener el movimiento del jugador aquí (ej. velocidad = 0)
-
-        // 2. Activar la animación del JUGADOR sufriendo
-        if (jugadorAnim != null)
-        {
-            // Supongamos que creaste este parámetro en el Animator del Jugador
-            jugadorAnim.SetBool("recibiendoAhorque", true);
-            Invoke("Recuperarse", tiempo);
-        }
-    }
-
-
-
     void FlipCharacter()
     {
-        if (movimiento < 0) transform.localScale = new Vector2(-1f, 1f);
-        if (movimiento > 0) transform.localScale = new Vector2(1f, 1f);
+        if (movimientoX < 0 && transform.localScale.x > 0)
+        {
+            transform.localScale = new Vector3(-0.9f, 0.9f, 1f);
+        }
+        else if (movimientoX > 0 && transform.localScale.x < 0)
+        {
+            transform.localScale = new Vector3(0.9f, 0.9f, 1f);
+        }
     }
 
 
