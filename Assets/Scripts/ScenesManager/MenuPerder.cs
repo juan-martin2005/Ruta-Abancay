@@ -3,16 +3,12 @@ using UnityEngine.SceneManagement;
 
 public class MenuPerder : MonoBehaviour
 {
-
-    public void Reiniciar()
-    {
+    public void Reiniciar(){
         Time.timeScale = 1;
-
-        string nombreEscena = SceneManager.GetActiveScene().name;
-        SceneManager.LoadScene(nombreEscena);
+        SceneManager.LoadScene("level1");
     }
-    public void Salir()
-    {
+
+    public void Salir(){
         SceneManager.LoadScene("Menu");
     }
 }
