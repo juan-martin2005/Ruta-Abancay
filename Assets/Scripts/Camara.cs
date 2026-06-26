@@ -2,14 +2,18 @@ using UnityEngine;
 
 public class Camara : MonoBehaviour
 {
-    public Transform objetivo;
-    public float velocidadCamara = 0.025f;
-    public Vector3 desplazamiento;
+    [SerializeField] private Transform objetivo;
+    [SerializeField] private float suavizado = 5f;
+    [SerializeField] private Vector3 desplazamiento;
 
     private void LateUpdate()
     {
+        if (objetivo == null) return;
+
         Vector3 posicionDeseada = objetivo.position + desplazamiento;
-        Vector3 posicionSuavizada = Vector3.Lerp(transform.position, posicionDeseada, velocidadCamara);
+
+        Vector3 posicionSuavizada = Vector3.Lerp(transform.position, posicionDeseada, suavizado * Time.deltaTime);
+
         transform.position = posicionSuavizada;
     }
 }

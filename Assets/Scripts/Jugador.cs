@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -6,11 +7,11 @@ public class Jugador : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
 
-    private readonly float velocidad = 4.7f;
-    private readonly float salto = 7.3f;
-    private readonly float velocidadReducida = 0.1f;
+    [SerializeField] private float velocidad = 4.7f;
+    [SerializeField] private float salto = 7.3f;
+    [SerializeField] private float velocidadReducida = 0.5f;
 
-    public float movimientoX;
+    public float movimientoX { get; private set; }
     private bool isSalto = false;
     private bool estaAturdido = false;
     private bool intentoSalto = false;
@@ -26,7 +27,7 @@ public class Jugador : MonoBehaviour
     {
         movimientoX = (Keyboard.current.dKey.isPressed ? 1 : 0) - (Keyboard.current.aKey.isPressed ? 1 : 0);
 
-        if(Keyboard.current.spaceKey.isPressed && !isSalto) intentoSalto = true;
+        if(Keyboard.current.spaceKey.wasPressedThisFrame && !isSalto && !estaAturdido) intentoSalto = true;
 
         anim.SetFloat("movement", Mathf.Abs(rb.linearVelocity.x));
         anim.SetBool("isJumping", isSalto);
@@ -35,13 +36,12 @@ public class Jugador : MonoBehaviour
 
     private void FixedUpdate()
     {
-
         // Si está aturdido (por el bache), se aplica la velocidad reducida
         float velocidadActual = estaAturdido ? velocidadReducida : velocidad;
 
 
         //Aplicar el movimiento al Rigidbody
-        rb.linearVelocity = new Vector2(velocidadActual * movimientoX, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(movimientoX * velocidadActual, rb.linearVelocity.y);
 
         if (intentoSalto) // Añadido !isSalto para evitar saltos infinitos en el aire
         {
@@ -52,9 +52,6 @@ public class Jugador : MonoBehaviour
 
         FlipCharacter();
     }
-
-
-
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -94,7 +91,4 @@ public class Jugador : MonoBehaviour
             transform.localScale = new Vector3(0.9f, 0.9f, 1f);
         }
     }
-
-
-
 }
