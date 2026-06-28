@@ -14,6 +14,7 @@ public class DetectarColision : MonoBehaviour
     }
 
     IEnumerator MostrarPanelPerdiste(){
+        PlayerPrefs.SetString("UltimoNivel", SceneManager.GetActiveScene().name);
         yield return new WaitForSeconds(tiempoEspera);
         SceneManager.LoadScene("GameOver");
     }

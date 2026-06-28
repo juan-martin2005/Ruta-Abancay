@@ -6,8 +6,9 @@ public class Jugador : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator anim;
+    private Collider2D col;
 
-    [SerializeField] private float velocidad = 4.7f;
+    [SerializeField] private float velocidad = 5.1f;
     [SerializeField] private float salto = 7.3f;
     [SerializeField] private float velocidadReducida = 0.5f;
 
@@ -15,12 +16,14 @@ public class Jugador : MonoBehaviour
     private bool isSalto = false;
     private bool estaAturdido = false;
     private bool intentoSalto = false;
+    private bool bloqueadoPorPared = false;
 
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        col = GetComponent<Collider2D>();
     }
 
     void Update()
@@ -29,7 +32,17 @@ public class Jugador : MonoBehaviour
 
         if(Keyboard.current.spaceKey.wasPressedThisFrame && !isSalto && !estaAturdido) intentoSalto = true;
 
-        anim.SetFloat("movement", Mathf.Abs(rb.linearVelocity.x));
+        bloqueadoPorPared = VerificarBloqueoPared();
+
+        if (bloqueadoPorPared)
+        {
+            anim.SetFloat("movement", 0);
+        }
+        else
+        {
+            anim.SetFloat("movement", Mathf.Abs(rb.linearVelocity.x));
+        }
+        
         anim.SetBool("isJumping", isSalto);
         anim.SetBool("isStumbled", estaAturdido);
     }
@@ -41,7 +54,14 @@ public class Jugador : MonoBehaviour
 
 
         //Aplicar el movimiento al Rigidbody
-        rb.linearVelocity = new Vector2(movimientoX * velocidadActual, rb.linearVelocity.y);
+        if (bloqueadoPorPared)
+        {
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+        }
+        else
+        {
+            rb.linearVelocity = new Vector2(velocidadActual * movimientoX, rb.linearVelocity.y);
+        }
 
         if (intentoSalto) // Añadido !isSalto para evitar saltos infinitos en el aire
         {
@@ -55,18 +75,48 @@ public class Jugador : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("piso") || collision.gameObject.CompareTag("Suelo"))
+        if (collision.gameObject.CompareTag("piso") || collision.gameObject.CompareTag("Suelo") || collision.gameObject.CompareTag("Obstaculo"))
         {
             isSalto = false;
         }
 
     }
 
+    private bool VerificarBloqueoPared()
+    {
+        if (movimientoX == 0 || col == null) return false;
+
+        float dirX = Mathf.Sign(movimientoX);
+        
+        // Calculamos dos puntos desde donde lanzar rayos: uno un poco por encima de los pies y otro cerca de la cabeza
+        Vector2 origenAbajo = new Vector2(col.bounds.center.x, col.bounds.min.y + 0.2f);
+        Vector2 origenArriba = new Vector2(col.bounds.center.x, col.bounds.max.y - 0.2f);
+
+        // La distancia será la mitad del ancho del jugador más un pequeño margen extra
+        float distancia = col.bounds.extents.x + 0.3f;
+
+        // Lanzamos los rayos horizontalmente usando RaycastAll para poder ignorar al propio jugador
+        RaycastHit2D[] hitsAbajo = Physics2D.RaycastAll(origenAbajo, new Vector2(dirX, 0), distancia);
+        RaycastHit2D[] hitsArriba = Physics2D.RaycastAll(origenArriba, new Vector2(dirX, 0), distancia);
+
+        foreach (var hit in hitsAbajo)
+        {
+            if (hit.collider != null && hit.collider.gameObject != this.gameObject && hit.collider.CompareTag("Obstaculo"))
+                return true;
+        }
+        foreach (var hit in hitsArriba)
+        {
+            if (hit.collider != null && hit.collider.gameObject != this.gameObject && hit.collider.CompareTag("Obstaculo"))
+                return true;
+        }
+
+        return false;
+    }
+
     // Se ejecuta cuando el jugador entra en el área del bache (Trigger)
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Comparamos con el Tag "Obstaculo" que tienes asignado en el Inspector de tu bache
-        if (collision.CompareTag("Obstaculo") && !estaAturdido)
+        if (collision.CompareTag("Bache") && !estaAturdido)
         {
             estaAturdido = true;
 

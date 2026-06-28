@@ -5,7 +5,8 @@ public class MenuPerder : MonoBehaviour
 {
     public void Reiniciar(){
         Time.timeScale = 1;
-        SceneManager.LoadScene("level1");
+        string ultimoNivel = PlayerPrefs.GetString("UltimoNivel", "level1");
+        SceneManager.LoadScene(ultimoNivel);
     }
 
     public void Salir(){

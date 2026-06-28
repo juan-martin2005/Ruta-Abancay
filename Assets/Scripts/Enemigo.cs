@@ -11,7 +11,7 @@ public class Enemigo : MonoBehaviour
     public float aceleracion = 2.5f;
 
     [Header("Tiempos de Reacción")]
-    public float tiempoParaArrancar = 0.1f;
+    public float tiempoParaArrancar = 0.08f;
     private float cronometroReaccion = 0f;
     private bool detectadoPreviamente = false;
 
@@ -91,8 +91,21 @@ public class Enemigo : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, detectarRadio);
     }
 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Obstaculo"))
+        {
+            Destroy(other.gameObject);
+        }
+    }
+
     void OnCollisionEnter2D(Collision2D coll)
     {
+        if (coll.gameObject.CompareTag("Obstaculo"))
+        {
+            Destroy(coll.gameObject);
+        }
+
         if (coll.gameObject.CompareTag("Jugador") && !estaAhorcando)
         {
             estaAhorcando = true;

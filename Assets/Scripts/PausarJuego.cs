@@ -37,4 +37,9 @@ public class PausarJuego : MonoBehaviour
         string nombreEscena = SceneManager.GetActiveScene().name;
         SceneManager.LoadScene(nombreEscena);
     }
+
+    public void IrMenu()
+    {
+        SceneManager.LoadScene("Menu");
+    }
 }
