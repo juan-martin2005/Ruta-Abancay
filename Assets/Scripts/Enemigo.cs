@@ -5,10 +5,14 @@ public class Enemigo : MonoBehaviour
     public Transform jugador;
     private Rigidbody2D rb;
     private Animator animator;
+    private AudioSource audioSource;
 
     public float detectarRadio = 16f;
-    public float velocidadMaxima = 4.5f; 
+    public float velocidadMaxima = 4.5f;
     public float aceleracion = 2.5f;
+
+    [Header("Audio")]
+    public AudioClip sonidoDeteccion;
 
     [Header("Tiempos de Reacción")]
     public float tiempoParaArrancar = 0.08f;
@@ -16,13 +20,17 @@ public class Enemigo : MonoBehaviour
     private bool detectadoPreviamente = false;
 
     private Vector2 movimientoX;
-    private float velocidadActual = 0.6f; // <-- Guarda la velocidad que va escalando
+    private float velocidadActual = 0.6f;
     private bool estaAhorcando = false;
+
+    // Evita que el sonido se repita mientras el jugador siga dentro del rango
+    private bool sonidoReproducido = false;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -33,12 +41,18 @@ public class Enemigo : MonoBehaviour
 
         if (distanciaJugador < detectarRadio)
         {
+            // Reproduce el sonido UNA SOLA VEZ cuando detecta al jugador
+            if (!sonidoReproducido)
+            {
+                audioSource.PlayOneShot(sonidoDeteccion);
+                sonidoReproducido = true;
+            }
+
             float direccion = jugador.position.x > transform.position.x ? 1f : -1f;
 
             if (direccion < 0) transform.localScale = new Vector2(1f, 1f);
             if (direccion > 0) transform.localScale = new Vector2(-1f, 1f);
 
-            // SISTEMA DE ESPERA / REACCIÓN
             if (!detectadoPreviamente)
             {
                 cronometroReaccion += Time.deltaTime;
@@ -52,16 +66,17 @@ public class Enemigo : MonoBehaviour
             }
             else
             {
-                // Pasó el tiempo de espera: preparamos la dirección
                 movimientoX = new Vector2(direccion, 0f);
             }
         }
         else
         {
-            // Si el jugador escapa del rango, el enemigo frena gradualmente
             movimientoX = Vector2.zero;
             detectadoPreviamente = false;
             cronometroReaccion = 0f;
+
+            // Permite que vuelva a sonar cuando el jugador salga y vuelva a entrar
+            sonidoReproducido = false;
         }
     }
 
@@ -120,14 +135,17 @@ public class Enemigo : MonoBehaviour
 
             Jugador scriptJugador = coll.gameObject.GetComponent<Jugador>();
 
-            if(scriptJugador != null)
+            if (scriptJugador != null)
             {
                 scriptJugador.enabled = false;
+
                 SpriteRenderer jugadorSprite = coll.gameObject.GetComponent<SpriteRenderer>();
-                if (jugadorSprite != null) jugadorSprite.enabled = false;
+                if (jugadorSprite != null)
+                    jugadorSprite.enabled = false;
 
                 Rigidbody2D jugadorRb = coll.gameObject.GetComponent<Rigidbody2D>();
-                if (jugadorRb != null) jugadorRb.linearVelocity = Vector2.zero;
+                if (jugadorRb != null)
+                    jugadorRb.linearVelocity = Vector2.zero;
             }
         }
     }
