@@ -8,7 +8,7 @@ public class PasarNivel : MonoBehaviour
     {
         if (collision.CompareTag("Jugador"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex +  1);
+            SceneManager.LoadScene("EndGame");
         }
     }
 }
