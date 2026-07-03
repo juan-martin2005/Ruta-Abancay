@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
 public class Enemigo : MonoBehaviour
 {
     public Transform jugador;
@@ -44,7 +45,10 @@ public class Enemigo : MonoBehaviour
             // Reproduce el sonido UNA SOLA VEZ cuando detecta al jugador
             if (!sonidoReproducido)
             {
-                audioSource.PlayOneShot(sonidoDeteccion);
+                if (audioSource != null && sonidoDeteccion != null)
+                {
+                    audioSource.PlayOneShot(sonidoDeteccion);
+                }
                 sonidoReproducido = true;
             }
 

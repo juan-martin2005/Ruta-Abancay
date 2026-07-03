@@ -2,12 +2,16 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+[RequireComponent(typeof(AudioSource))]
 public class Jugador : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator anim;
     private Collider2D col;
     private AudioSource audioSalto;
+
+    [Header("Audio")]
+    [SerializeField] private AudioClip clipSalto;
 
     [SerializeField] private float velocidad = 5.1f;
     [SerializeField] private float salto = 7.3f;
@@ -67,8 +71,10 @@ public class Jugador : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, salto);
             isSalto = true;
 
-            // Reproduce el sonido del salto
-            audioSalto.Play();
+            if (audioSalto != null && clipSalto != null)
+            {
+                audioSalto.PlayOneShot(clipSalto);
+            }
 
             intentoSalto = false;
         }
