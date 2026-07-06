@@ -1,0 +1,4940 @@
+fileFormatVersion: 2
+guid: 42ffd593fc9c9ca47afd75d42ebb32f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1127703974972736247
+    second: cielo_nubes_0
+  - first:
+      213: -1648819786641105031
+    second: cielo_nubes_1
+  - first:
+      213: -4935065406834361469
+    second: cielo_nubes_2
+  - first:
+      213: 5056171854951148790
+    second: cielo_nubes_3
+  - first:
+      213: 4045320120930904529
+    second: cielo_nubes_4
+  - first:
+      213: -7930398984548706598
+    second: cielo_nubes_5
+  - first:
+      213: -6748306286662149163
+    second: cielo_nubes_6
+  - first:
+      213: 2131308080142081418
+    second: cielo_nubes_7
+  - first:
+      213: -8413176479952087950
+    second: cielo_nubes_8
+  - first:
+      213: 2881097161994340117
+    second: cielo_nubes_9
+  - first:
+      213: 3547447873317343164
+    second: cielo_nubes_10
+  - first:
+      213: 9168241213294614472
+    second: cielo_nubes_11
+  - first:
+      213: -1375946199383598593
+    second: cielo_nubes_12
+  - first:
+      213: 8739349860315430618
+    second: cielo_nubes_13
+  - first:
+      213: -5371029886705019287
+    second: cielo_nubes_14
+  - first:
+      213: -2724635909373103742
+    second: cielo_nubes_15
+  - first:
+      213: 3003684612632155033
+    second: cielo_nubes_16
+  - first:
+      213: 5325935626739665992
+    second: cielo_nubes_17
+  - first:
+      213: -1916312759536026530
+    second: cielo_nubes_18
+  - first:
+      213: -4633983707638685163
+    second: cielo_nubes_19
+  - first:
+      213: 4228220569312414250
+    second: cielo_nubes_20
+  - first:
+      213: -6419745110437204127
+    second: cielo_nubes_21
+  - first:
+      213: -6872186791416344999
+    second: cielo_nubes_22
+  - first:
+      213: 9222539137614928686
+    second: cielo_nubes_23
+  - first:
+      213: -2993853602773326382
+    second: cielo_nubes_24
+  - first:
+      213: 4287038194266613348
+    second: cielo_nubes_25
+  - first:
+      213: -7892492141397004126
+    second: cielo_nubes_26
+  - first:
+      213: -653559885674293702
+    second: cielo_nubes_27
+  - first:
+      213: 2332247073035974842
+    second: cielo_nubes_28
+  - first:
+      213: -480181683001428800
+    second: cielo_nubes_29
+  - first:
+      213: 3063036829374473152
+    second: cielo_nubes_30
+  - first:
+      213: 741313335376535599
+    second: cielo_nubes_31
+  - first:
+      213: 5626561748564354611
+    second: cielo_nubes_32
+  - first:
+      213: 5260582787547718372
+    second: cielo_nubes_33
+  - first:
+      213: -632054860436084633
+    second: cielo_nubes_34
+  - first:
+      213: -7537883070418075552
+    second: cielo_nubes_35
+  - first:
+      213: -6566686094704581150
+    second: cielo_nubes_36
+  - first:
+      213: 7855560396163205212
+    second: cielo_nubes_37
+  - first:
+      213: -5485032095706984752
+    second: cielo_nubes_38
+  - first:
+      213: 9181725740011039029
+    second: cielo_nubes_39
+  - first:
+      213: -6993727680756214626
+    second: cielo_nubes_40
+  - first:
+      213: -6151998715150551546
+    second: cielo_nubes_41
+  - first:
+      213: 7417593694416867001
+    second: cielo_nubes_42
+  - first:
+      213: -3864939453738903591
+    second: cielo_nubes_43
+  - first:
+      213: 5270921637958600500
+    second: cielo_nubes_44
+  - first:
+      213: 2401739883338853269
+    second: cielo_nubes_45
+  - first:
+      213: 5726375204137148984
+    second: cielo_nubes_46
+  - first:
+      213: -5551592122980729725
+    second: cielo_nubes_47
+  - first:
+      213: 8628413764659041497
+    second: cielo_nubes_48
+  - first:
+      213: -2966037039700920754
+    second: cielo_nubes_49
+  - first:
+      213: -330893158719945304
+    second: cielo_nubes_50
+  - first:
+      213: -4390314477721445975
+    second: cielo_nubes_51
+  - first:
+      213: 4498015605817520237
+    second: cielo_nubes_52
+  - first:
+      213: 7143980365865493918
+    second: cielo_nubes_53
+  - first:
+      213: -2604425202289585842
+    second: cielo_nubes_54
+  - first:
+      213: 1588978494241477290
+    second: cielo_nubes_55
+  - first:
+      213: -1877013693738326531
+    second: cielo_nubes_56
+  - first:
+      213: 711163884436870284
+    second: cielo_nubes_57
+  - first:
+      213: -709820208840616367
+    second: cielo_nubes_58
+  - first:
+      213: -8610808107309730236
+    second: cielo_nubes_59
+  - first:
+      213: -1345842386308354809
+    second: cielo_nubes_60
+  - first:
+      213: -4588902449038186303
+    second: cielo_nubes_61
+  - first:
+      213: 772017533474217366
+    second: cielo_nubes_62
+  - first:
+      213: -4086564311033003878
+    second: cielo_nubes_63
+  - first:
+      213: 2327915423222522653
+    second: cielo_nubes_64
+  - first:
+      213: 1641586959102858950
+    second: cielo_nubes_65
+  - first:
+      213: -1829122950935126283
+    second: cielo_nubes_66
+  - first:
+      213: 6744701835303708576
+    second: cielo_nubes_67
+  - first:
+      213: -5894128566611757081
+    second: cielo_nubes_68
+  - first:
+      213: 7509446129472794748
+    second: cielo_nubes_69
+  - first:
+      213: -5403439215786038569
+    second: cielo_nubes_70
+  - first:
+      213: -1232761664344448396
+    second: cielo_nubes_71
+  - first:
+      213: -8347653562461033907
+    second: cielo_nubes_72
+  - first:
+      213: -4214681836127325593
+    second: cielo_nubes_73
+  - first:
+      213: -1532963672389619809
+    second: cielo_nubes_74
+  - first:
+      213: -2214289885517950227
+    second: cielo_nubes_75
+  - first:
+      213: 2892880174277586179
+    second: cielo_nubes_76
+  - first:
+      213: 4638463406940312222
+    second: cielo_nubes_77
+  - first:
+      213: -6485978607307738029
+    second: cielo_nubes_78
+  - first:
+      213: -4456943821737097989
+    second: cielo_nubes_79
+  - first:
+      213: 8258447140221738503
+    second: cielo_nubes_80
+  - first:
+      213: -2146572548865688525
+    second: cielo_nubes_81
+  - first:
+      213: 1130644628992647987
+    second: cielo_nubes_82
+  - first:
+      213: -5173576379208021999
+    second: cielo_nubes_83
+  - first:
+      213: -7560029740569105125
+    second: cielo_nubes_84
+  - first:
+      213: -2351591315508389366
+    second: cielo_nubes_85
+  - first:
+      213: 6027319240043213960
+    second: cielo_nubes_86
+  - first:
+      213: -7166609354925104027
+    second: cielo_nubes_87
+  - first:
+      213: 7574308541963781445
+    second: cielo_nubes_88
+  - first:
+      213: -755157703129331932
+    second: cielo_nubes_89
+  - first:
+      213: 8788663045203739536
+    second: cielo_nubes_90
+  - first:
+      213: -8701087140669697314
+    second: cielo_nubes_91
+  - first:
+      213: 3062618270583150598
+    second: cielo_nubes_92
+  - first:
+      213: -7052782100951703501
+    second: cielo_nubes_93
+  - first:
+      213: 4675101287828621394
+    second: cielo_nubes_94
+  - first:
+      213: -229193008882034015
+    second: cielo_nubes_95
+  - first:
+      213: 1145108540045203166
+    second: cielo_nubes_96
+  - first:
+      213: 2219813206276889894
+    second: cielo_nubes_97
+  - first:
+      213: -3370016023456128839
+    second: cielo_nubes_98
+  - first:
+      213: -6950694401987364575
+    second: cielo_nubes_99
+  - first:
+      213: -2503317736174598871
+    second: cielo_nubes_100
+  - first:
+      213: -8002862999101355344
+    second: cielo_nubes_101
+  - first:
+      213: -315052737938815692
+    second: cielo_nubes_102
+  - first:
+      213: -8920529479235977183
+    second: cielo_nubes_103
+  - first:
+      213: 6384547026439426368
+    second: cielo_nubes_104
+  - first:
+      213: -6066741733913159594
+    second: cielo_nubes_105
+  - first:
+      213: 6578417007138731685
+    second: cielo_nubes_106
+  - first:
+      213: -4173952111927487336
+    second: cielo_nubes_107
+  - first:
+      213: 1556639767311764776
+    second: cielo_nubes_108
+  - first:
+      213: -6628415911592264350
+    second: cielo_nubes_109
+  - first:
+      213: -5315633229500122914
+    second: cielo_nubes_110
+  - first:
+      213: 7982275424306711957
+    second: cielo_nubes_111
+  - first:
+      213: -8840775857537441683
+    second: cielo_nubes_112
+  - first:
+      213: -5163356406987567627
+    second: cielo_nubes_113
+  - first:
+      213: 6874495524018325441
+    second: cielo_nubes_114
+  - first:
+      213: -6634999385129542504
+    second: cielo_nubes_115
+  - first:
+      213: -5239729254888624886
+    second: cielo_nubes_116
+  - first:
+      213: -1701067510917666780
+    second: cielo_nubes_117
+  - first:
+      213: -1040013251107904833
+    second: cielo_nubes_118
+  - first:
+      213: 7086291182114952500
+    second: cielo_nubes_119
+  - first:
+      213: -4468477523628356946
+    second: cielo_nubes_120
+  - first:
+      213: 5240496839719537860
+    second: cielo_nubes_121
+  - first:
+      213: 1097855731071604013
+    second: cielo_nubes_122
+  - first:
+      213: 5121935601216068721
+    second: cielo_nubes_123
+  - first:
+      213: -8262931562646377667
+    second: cielo_nubes_124
+  - first:
+      213: 3390767451496175517
+    second: cielo_nubes_125
+  - first:
+      213: -9041486960957984254
+    second: cielo_nubes_126
+  - first:
+      213: -6838213556066309209
+    second: cielo_nubes_127
+  - first:
+      213: 1553729483971733936
+    second: cielo_nubes_128
+  - first:
+      213: -5464561074330250191
+    second: cielo_nubes_129
+  - first:
+      213: -5425451037078995782
+    second: cielo_nubes_130
+  - first:
+      213: -9074633446552814264
+    second: cielo_nubes_131
+  - first:
+      213: 7523282009684056469
+    second: cielo_nubes_132
+  - first:
+      213: -3384611175724424959
+    second: cielo_nubes_133
+  - first:
+      213: -6024750503332091655
+    second: cielo_nubes_134
+  - first:
+      213: 5502410625230449127
+    second: cielo_nubes_135
+  - first:
+      213: 7069022666233662435
+    second: cielo_nubes_136
+  - first:
+      213: -5014446121807025135
+    second: cielo_nubes_137
+  - first:
+      213: 1952039702461424392
+    second: cielo_nubes_138
+  - first:
+      213: 6306529575054973303
+    second: cielo_nubes_139
+  - first:
+      213: -3237320430594398475
+    second: cielo_nubes_140
+  - first:
+      213: -7872222331810010243
+    second: cielo_nubes_141
+  - first:
+      213: -1729695446784284513
+    second: cielo_nubes_142
+  - first:
+      213: -4658102500931358689
+    second: cielo_nubes_143
+  - first:
+      213: -7575213687425956743
+    second: cielo_nubes_144
+  - first:
+      213: 9032457115215342821
+    second: cielo_nubes_145
+  - first:
+      213: -3695244732374898979
+    second: cielo_nubes_146
+  - first:
+      213: 8609217336956007107
+    second: cielo_nubes_147
+  - first:
+      213: -2148849619013976719
+    second: cielo_nubes_148
+  - first:
+      213: -7865926425157841790
+    second: cielo_nubes_149
+  - first:
+      213: 3608689946415587126
+    second: cielo_nubes_150
+  - first:
+      213: 9172810079194145779
+    second: cielo_nubes_151
+  - first:
+      213: -7418586924941118829
+    second: cielo_nubes_152
+  - first:
+      213: 8443352096131936068
+    second: cielo_nubes_153
+  - first:
+      213: 1847862238982080974
+    second: cielo_nubes_154
+  - first:
+      213: -1245585444268225485
+    second: cielo_nubes_155
+  - first:
+      213: -6473319509746433519
+    second: cielo_nubes_156
+  - first:
+      213: -1317862679119897894
+    second: cielo_nubes_157
+  - first:
+      213: -3962269124037842496
+    second: cielo_nubes_158
+  - first:
+      213: -9177764036179450687
+    second: cielo_nubes_159
+  - first:
+      213: 6109866768833623255
+    second: cielo_nubes_160
+  - first:
+      213: -6481235098380549145
+    second: cielo_nubes_161
+  - first:
+      213: -7331615279533896711
+    second: cielo_nubes_162
+  - first:
+      213: 317476885472593318
+    second: cielo_nubes_163
+  - first:
+      213: -2890230633063431092
+    second: cielo_nubes_164
+  - first:
+      213: 2179887395943990715
+    second: cielo_nubes_165
+  - first:
+      213: 196214436603860373
+    second: cielo_nubes_166
+  - first:
+      213: 3029550647859645190
+    second: cielo_nubes_167
+  - first:
+      213: -8388364042165236794
+    second: cielo_nubes_168
+  - first:
+      213: 7549477537356595386
+    second: cielo_nubes_169
+  - first:
+      213: -27114303987338829
+    second: cielo_nubes_170
+  - first:
+      213: 655978023154759369
+    second: cielo_nubes_171
+  - first:
+      213: -4819224840973723991
+    second: cielo_nubes_172
+  - first:
+      213: -5407742502342166910
+    second: cielo_nubes_173
+  - first:
+      213: 1225941981008824524
+    second: cielo_nubes_174
+  - first:
+      213: 8629292999559972294
+    second: cielo_nubes_175
+  - first:
+      213: 8750222391332094685
+    second: cielo_nubes_176
+  - first:
+      213: -2609624276086475867
+    second: cielo_nubes_177
+  - first:
+      213: 8631171704664531737
+    second: cielo_nubes_178
+  - first:
+      213: -5986156758642603621
+    second: cielo_nubes_179
+  - first:
+      213: 2452635783537419077
+    second: cielo_nubes_180
+  - first:
+      213: -59595153717246290
+    second: cielo_nubes_181
+  - first:
+      213: -5175943834471941334
+    second: cielo_nubes_182
+  - first:
+      213: 5795081373978191382
+    second: cielo_nubes_183
+  - first:
+      213: -8022024962965507874
+    second: cielo_nubes_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cielo_nubes_0
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 334
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d34f7a5379950f0800000000000000
+      internalID: -1127703974972736247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_1
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 327
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f1f9ec3273e19e0800000000000000
+      internalID: -1648819786641105031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_2
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 335
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bb15ad820238bb0800000000000000
+      internalID: -4935065406834361469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_3
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 332
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fce0b963812b2640800000000000000
+      internalID: 5056171854951148790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 216
+        width: 219
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9a3da873dd32830800000000000000
+      internalID: 4045320120930904529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 269
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad61bdef32091f190800000000000000
+      internalID: -7930398984548706598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_6
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 305
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db97f3bf233952a0800000000000000
+      internalID: -6748306286662149163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_7
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 294
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd9cf186de39d10800000000000000
+      internalID: 2131308080142081418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_8
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 303
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274d8cff0946e3b80800000000000000
+      internalID: -8413176479952087950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5170f08aa96bbf720800000000000000
+      internalID: 2881097161994340117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8b4cab011b3130800000000000000
+      internalID: 3547447873317343164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 293
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7958ddec22c3f70800000000000000
+      internalID: 9168241213294614472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_12
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 237
+        width: 132
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff911b3c838a7ece0800000000000000
+      internalID: -1375946199383598593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 263
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adef5f71568684970800000000000000
+      internalID: 8739349860315430618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 221
+        width: 103
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966d0f466c44675b0800000000000000
+      internalID: -5371029886705019287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_15
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 239
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281fa8f7316203ad0800000000000000
+      internalID: -2724635909373103742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_16
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 262
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9931f31bd3b3fa920800000000000000
+      internalID: 3003684612632155033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_17
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 223
+        width: 153
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c4a680c3689e940800000000000000
+      internalID: 5325935626739665992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_18
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 256
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c7e41c2b3e765e0800000000000000
+      internalID: -1916312759536026530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_19
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 252
+        width: 76
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512af3bae58c0bfb0800000000000000
+      internalID: -4633983707638685163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 226
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2acdd9a438adaa30800000000000000
+      internalID: 4228220569312414250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_21
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 237
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fe6d7d5db78e6a0800000000000000
+      internalID: -6419745110437204127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_22
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 244
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e4f7b068611a0a0800000000000000
+      internalID: -6872186791416344999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_23
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 248
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bdca88b7a0dff70800000000000000
+      internalID: 9222539137614928686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_24
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 249
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d52c29a202b376d0800000000000000
+      internalID: -2993853602773326382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_25
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 197
+        width: 107
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4662bc3268e9e7b30800000000000000
+      internalID: 4287038194266613348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_26
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 235
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0387fa63c387290800000000000000
+      internalID: -7892492141397004126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_27
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 228
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3650f62fb61ee6f0800000000000000
+      internalID: -653559885674293702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_28
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 230
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f0cc2b5ecd5020800000000000000
+      internalID: 2332247073035974842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_29
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 221
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4fc0dad4d0659f0800000000000000
+      internalID: -480181683001428800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_30
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 220
+        width: 69
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3edc484c7128a20800000000000000
+      internalID: 3063036829374473152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 215
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20e0660d8ca94a00800000000000000
+      internalID: 741313335376535599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 192
+        width: 131
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336aaf97910951e40800000000000000
+      internalID: 5626561748564354611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_33
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 214
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2e05b6c28510940800000000000000
+      internalID: 5260582787547718372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_34
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 209
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768e525047d7a37f0800000000000000
+      internalID: -632054860436084633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_35
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 215
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060cc4de84f046790800000000000000
+      internalID: -7537883070418075552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_36
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 227
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5e2a5e9c17ed4a0800000000000000
+      internalID: -6566686094704581150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 221
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c584fec4f8e840d60800000000000000
+      internalID: 7855560396163205212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_38
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 217
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dec4c1be5041e3b0800000000000000
+      internalID: -5485032095706984752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_39
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 221
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5392b66e9ea0c6f70800000000000000
+      internalID: 9181725740011039029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_40
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 214
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9495bc8ab941fe90800000000000000
+      internalID: -6993727680756214626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_41
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 217
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606bac463c5bf9aa0800000000000000
+      internalID: -6151998715150551546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_42
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 199
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be05eb3a2690f660800000000000000
+      internalID: 7417593694416867001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_43
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 190
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7108d4b0afc5ac0800000000000000
+      internalID: -3864939453738903591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_44
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 214
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437417d9d43162940800000000000000
+      internalID: 5270921637958600500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_45
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 193
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bec4de2b1b45120800000000000000
+      internalID: 2401739883338853269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_46
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 192
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832233598eb287f40800000000000000
+      internalID: 5726375204137148984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_47
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 209
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c70e3b068c4f2b0800000000000000
+      internalID: -5551592122980729725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 192
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4d7998a984eb770800000000000000
+      internalID: 8628413764659041497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 202
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46b9f1f60586d6d0800000000000000
+      internalID: -2966037039700920754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_50
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 184
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a504efdc6e686bf0800000000000000
+      internalID: -330893158719945304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_51
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 197
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9982f4e387213c0800000000000000
+      internalID: -4390314477721445975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_52
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 200
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60baeaac592c6e30800000000000000
+      internalID: 4498015605817520237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_53
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 187
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9527c5da44842360800000000000000
+      internalID: 7143980365865493918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_54
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 193
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41547dc3193bdbd0800000000000000
+      internalID: -2604425202289585842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_55
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 194
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa29ff0958f2d0610800000000000000
+      internalID: 1588978494241477290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_56
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 167
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5ee2a8df183f5e0800000000000000
+      internalID: -1877013693738326531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8452f4f8cf8ed900800000000000000
+      internalID: 711163884436870284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_58
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 184
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15659a5e7463626f0800000000000000
+      internalID: -709820208840616367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_59
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 145
+        width: 104
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446ffbef5a3408880800000000000000
+      internalID: -8610808107309730236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 155
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d2d60fa7b925de0800000000000000
+      internalID: -1345842386308354809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8a8202981f050c0800000000000000
+      internalID: -4588902449038186303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_62
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 168
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d9a1b3bd1c6ba00800000000000000
+      internalID: 772017533474217366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_63
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 165
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90c611296b9947c0800000000000000
+      internalID: -4086564311033003878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_64
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 156
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13e45c5eba6e4020800000000000000
+      internalID: 2327915423222522653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_65
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 160
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c65d3d44a618c610800000000000000
+      internalID: 1641586959102858950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_66
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 89
+        width: 269
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe5ff20e56ad96e0800000000000000
+      internalID: -1829122950935126283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_67
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 168
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7e331959ef99d50800000000000000
+      internalID: 6744701835303708576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_68
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 157
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7bf9e0c49d33ea0800000000000000
+      internalID: -5894128566611757081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_69
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 169
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70782fc779e63860800000000000000
+      internalID: 7509446129472794748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_70
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 170
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da68a179a02305b0800000000000000
+      internalID: -5403439215786038569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_71
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 151
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472a7083cc954eee0800000000000000
+      internalID: -1232761664344448396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_72
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 169
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a6c7d005d272c80800000000000000
+      internalID: -8347653562461033907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 155
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f65c43317285c0800000000000000
+      internalID: -4214681836127325593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 154
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f63a579a1d9bae0800000000000000
+      internalID: -1532963672389619809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_75
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 135
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de256f7b4134541e0800000000000000
+      internalID: -2214289885517950227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_76
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 145
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30de59df033952820800000000000000
+      internalID: 2892880174277586179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_77
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 160
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92535a94e12f5040800000000000000
+      internalID: 4638463406940312222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 160
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b3a222dc2df5a0800000000000000
+      internalID: -6485978607307738029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_79
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 147
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf40d714531c522c0800000000000000
+      internalID: -4456943821737097989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_80
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 158
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ed14d3be5eb9270800000000000000
+      internalID: 8258447140221738503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_81
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 158
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c714cc3a7d532e0800000000000000
+      internalID: -2146572548865688525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_82
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 152
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3336f46bc4bd0bf00800000000000000
+      internalID: 1130644628992647987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_83
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 141
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11844f2a1b3c338b0800000000000000
+      internalID: -5173576379208021999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_84
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 110
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d6df57101651790800000000000000
+      internalID: -7560029740569105125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_85
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 153
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9a3668287d5fd0800000000000000
+      internalID: -2351591315508389366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_86
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 157
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88437aa2ae655a350800000000000000
+      internalID: 6027319240043213960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_87
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 156
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564a2b313c61b8c90800000000000000
+      internalID: -7166609354925104027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_88
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 98
+        width: 99
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54545fe0d795d1960800000000000000
+      internalID: 7574308541963781445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_89
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 152
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427839be1142585f0800000000000000
+      internalID: -755157703129331932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_90
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 148
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c8fba97a97f970800000000000000
+      internalID: 8788663045203739536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_91
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 150
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d9ac88578f3780800000000000000
+      internalID: -8701087140669697314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_92
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608dab4371b908a20800000000000000
+      internalID: 3062618270583150598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3306a82eb0c7f1e90800000000000000
+      internalID: -7052782100951703501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 99
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580ffdf9db41e040800000000000000
+      internalID: 4675101287828621394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_95
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 119
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa55983c2eb1dcf0800000000000000
+      internalID: -229193008882034015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_96
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 112
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed619ae662e34ef00800000000000000
+      internalID: 1145108540045203166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_97
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 137
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ddadb995c5ece10800000000000000
+      internalID: 2219813206276889894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_98
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 125
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e582284c4b31d0800000000000000
+      internalID: -3370016023456128839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 92
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1293f3b844c2a8f90800000000000000
+      internalID: -6950694401987364575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_100
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 125
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925c06738cd624dd0800000000000000
+      internalID: -2503317736174598871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_101
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 126
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba4278d08e10f090800000000000000
+      internalID: -8002862999101355344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_102
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 86
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43584ad3435b0abf0800000000000000
+      internalID: -315052737938815692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_103
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 83
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1204dbd93b9e33480800000000000000
+      internalID: -8920529479235977183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_104
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 112
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d2ba91b77a9850800000000000000
+      internalID: 6384547026439426368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_105
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 113
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6589116398a9ecba0800000000000000
+      internalID: -6066741733913159594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_106
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a674eef96b3b4b50800000000000000
+      internalID: 6578417007138731685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_107
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 68
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89412133ba42316c0800000000000000
+      internalID: -4173952111927487336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_108
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d4dd5fe9b4a9510800000000000000
+      internalID: 1556639767311764776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_109
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 93
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dfef5e8d22304a0800000000000000
+      internalID: -6628415911592264350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_110
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 84
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8f16fbdb31b36b0800000000000000
+      internalID: -5315633229500122914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_111
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 70
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dc12dd43db6ce60800000000000000
+      internalID: 7982275424306711957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_112
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 80
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60a1a0b2314f4580800000000000000
+      internalID: -8840775857537441683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_113
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 114
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc4c854b21858b0800000000000000
+      internalID: -5163356406987567627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_114
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 115
+        width: 85
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c70027a14d176f50800000000000000
+      internalID: 6874495524018325441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_115
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 86
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1b64863fbbe3a0800000000000000
+      internalID: -6634999385129542504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_116
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 101
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d2423010eb847b0800000000000000
+      internalID: -5239729254888624886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_117
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 102
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4286bc88c189468e0800000000000000
+      internalID: -1701067510917666780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_118
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 98
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a30655712191f0800000000000000
+      internalID: -1040013251107904833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_119
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 108
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435d1fc0940975260800000000000000
+      internalID: 7086291182114952500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_120
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 125
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa80550e57ccf1c0800000000000000
+      internalID: -4468477523628356946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_121
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 98
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc4a024c1cf9b840800000000000000
+      internalID: 5240496839719537860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_122
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 108
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25562188fd5c3f00800000000000000
+      internalID: 1097855731071604013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_123
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 101
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c19e8ca45c41740800000000000000
+      internalID: 5121935601216068721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_124
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 138
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b691dc58b245d80800000000000000
+      internalID: -8262931562646377667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_125
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 119
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97d266380d6e0f20800000000000000
+      internalID: 3390767451496175517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_126
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 124
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202f5ca438f268280800000000000000
+      internalID: -9041486960957984254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_127
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 119
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab286c4009c911a0800000000000000
+      internalID: -6838213556066309209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_128
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 117
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9af21dbb4ff8510800000000000000
+      internalID: 1553729483971733936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_129
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 95
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1345e17c7aaf924b0800000000000000
+      internalID: -5464561074330250191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_130
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 103
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcb1ace60de4b4b0800000000000000
+      internalID: -5425451037078995782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_131
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 124
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3757b5fc601280800000000000000
+      internalID: -9074633446552814264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_132
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5991e44b021186860800000000000000
+      internalID: 7523282009684056469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_133
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 101
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101e02071127701d0800000000000000
+      internalID: -3384611175724424959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_134
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 139
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8e8847659c36ca0800000000000000
+      internalID: -6024750503332091655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_135
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 133
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e922358f4d7c5c40800000000000000
+      internalID: 5502410625230449127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_136
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 91
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebca0269a63a1260800000000000000
+      internalID: 7069022666233662435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_137
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 93
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c6b54e1db196ab0800000000000000
+      internalID: -5014446121807025135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_138
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8032cac54c9071b10800000000000000
+      internalID: 1952039702461424392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_139
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 90
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77995ae2c3b458750800000000000000
+      internalID: 6306529575054973303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_140
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f66e4e683ab213d0800000000000000
+      internalID: -3237320430594398475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_141
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 106
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b219f7f7f30c290800000000000000
+      internalID: -7872222331810010243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_142
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 103
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98efccc723eef7e0800000000000000
+      internalID: -1729695446784284513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_143
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 98
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10b0a084781b5fb0800000000000000
+      internalID: -4658102500931358689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_144
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 101
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9748c47594f6fd690800000000000000
+      internalID: -7575213687425956743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_145
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec2c59e3ebb95d70800000000000000
+      internalID: 9032457115215342821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_146
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 96
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd629a08e7ad7bcc0800000000000000
+      internalID: -3695244732374898979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_147
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 120
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2b56bed851a7770800000000000000
+      internalID: 8609217336956007107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_148
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 95
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d30f618a0cd22e0800000000000000
+      internalID: -2148849619013976719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_149
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 102
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ccb1f779d96d290800000000000000
+      internalID: -7865926425157841790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_150
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 115
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fdf98f264a41230800000000000000
+      internalID: 3608689946415587126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_151
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 114
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f36d7ada2e5c4f70800000000000000
+      internalID: 9172810079194145779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_152
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 106
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f6834f72eb0990800000000000000
+      internalID: -7418586924941118829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_153
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 124
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f6e732fffcc2570800000000000000
+      internalID: 8443352096131936068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_154
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 101
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9826c7aece4a910800000000000000
+      internalID: 1847862238982080974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_155
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 113
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ccef843aac6bee0800000000000000
+      internalID: -1245585444268225485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_156
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 104
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11245f7f3362a26a0800000000000000
+      internalID: -6473319509746433519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_157
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 91
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada505c20e206bde0800000000000000
+      internalID: -1317862679119897894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_158
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e93589313309c0800000000000000
+      internalID: -3962269124037842496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_159
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 86
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c42b272c3802a080800000000000000
+      internalID: -9177764036179450687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_160
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 126
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4ba4d647b9ac450800000000000000
+      internalID: 6109866768833623255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_161
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 95
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3cb3f54070e06a0800000000000000
+      internalID: -6481235098380549145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_162
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 112
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb4e817fbed04a90800000000000000
+      internalID: -7331615279533896711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_163
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 91
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5cdf69b87e76400800000000000000
+      internalID: 317476885472593318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_164
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 97
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c444d456d86d3e7d0800000000000000
+      internalID: -2890230633063431092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_165
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 98
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5c79d7904804e10800000000000000
+      internalID: 2179887395943990715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_166
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59593919df719b200800000000000000
+      internalID: 196214436603860373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_167
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 81
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b8ab253402b0a20800000000000000
+      internalID: 3029550647859645190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_168
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 80
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbc41cd85b869b80800000000000000
+      internalID: -8388364042165236794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_169
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 81
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab04ee542d125c860800000000000000
+      internalID: 7549477537356595386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_170
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 98
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1b0862fabaf9ff0800000000000000
+      internalID: -27114303987338829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_171
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 87
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c63a9a59808a1900800000000000000
+      internalID: 655978023154759369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_172
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 89
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6d50d5a8cae1db0800000000000000
+      internalID: -4819224840973723991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_173
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 86
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286fc1778d6d3f4b0800000000000000
+      internalID: -5407742502342166910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc805458cbb630110800000000000000
+      internalID: 1225941981008824524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_175
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 80
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5898d534861c770800000000000000
+      internalID: 8629292999559972294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_176
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 64
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2c40d77e80f6970800000000000000
+      internalID: 8750222391332094685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_177
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a331aa1c80c8cbd0800000000000000
+      internalID: -2609624276086475867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_178
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 78
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913aeeb7fe418c770800000000000000
+      internalID: 8631171704664531737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_179
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 69
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99cd4fd426ececa0800000000000000
+      internalID: -5986156758642603621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_180
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 75
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543e8212043890220800000000000000
+      internalID: 2452635783537419077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_181
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 78
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6495006864c2ff0800000000000000
+      internalID: -59595153717246290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_182
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b3de0818a5b28b0800000000000000
+      internalID: -5175943834471941334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_183
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 48
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616e3745ec34c6050800000000000000
+      internalID: 5795081373978191382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cielo_nubes_184
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0ff177cca0ca090800000000000000
+      internalID: -8022024962965507874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cielo_nubes_0: -1127703974972736247
+      cielo_nubes_1: -1648819786641105031
+      cielo_nubes_10: 3547447873317343164
+      cielo_nubes_100: -2503317736174598871
+      cielo_nubes_101: -8002862999101355344
+      cielo_nubes_102: -315052737938815692
+      cielo_nubes_103: -8920529479235977183
+      cielo_nubes_104: 6384547026439426368
+      cielo_nubes_105: -6066741733913159594
+      cielo_nubes_106: 6578417007138731685
+      cielo_nubes_107: -4173952111927487336
+      cielo_nubes_108: 1556639767311764776
+      cielo_nubes_109: -6628415911592264350
+      cielo_nubes_11: 9168241213294614472
+      cielo_nubes_110: -5315633229500122914
+      cielo_nubes_111: 7982275424306711957
+      cielo_nubes_112: -8840775857537441683
+      cielo_nubes_113: -5163356406987567627
+      cielo_nubes_114: 6874495524018325441
+      cielo_nubes_115: -6634999385129542504
+      cielo_nubes_116: -5239729254888624886
+      cielo_nubes_117: -1701067510917666780
+      cielo_nubes_118: -1040013251107904833
+      cielo_nubes_119: 7086291182114952500
+      cielo_nubes_12: -1375946199383598593
+      cielo_nubes_120: -4468477523628356946
+      cielo_nubes_121: 5240496839719537860
+      cielo_nubes_122: 1097855731071604013
+      cielo_nubes_123: 5121935601216068721
+      cielo_nubes_124: -8262931562646377667
+      cielo_nubes_125: 3390767451496175517
+      cielo_nubes_126: -9041486960957984254
+      cielo_nubes_127: -6838213556066309209
+      cielo_nubes_128: 1553729483971733936
+      cielo_nubes_129: -5464561074330250191
+      cielo_nubes_13: 8739349860315430618
+      cielo_nubes_130: -5425451037078995782
+      cielo_nubes_131: -9074633446552814264
+      cielo_nubes_132: 7523282009684056469
+      cielo_nubes_133: -3384611175724424959
+      cielo_nubes_134: -6024750503332091655
+      cielo_nubes_135: 5502410625230449127
+      cielo_nubes_136: 7069022666233662435
+      cielo_nubes_137: -5014446121807025135
+      cielo_nubes_138: 1952039702461424392
+      cielo_nubes_139: 6306529575054973303
+      cielo_nubes_14: -5371029886705019287
+      cielo_nubes_140: -3237320430594398475
+      cielo_nubes_141: -7872222331810010243
+      cielo_nubes_142: -1729695446784284513
+      cielo_nubes_143: -4658102500931358689
+      cielo_nubes_144: -7575213687425956743
+      cielo_nubes_145: 9032457115215342821
+      cielo_nubes_146: -3695244732374898979
+      cielo_nubes_147: 8609217336956007107
+      cielo_nubes_148: -2148849619013976719
+      cielo_nubes_149: -7865926425157841790
+      cielo_nubes_15: -2724635909373103742
+      cielo_nubes_150: 3608689946415587126
+      cielo_nubes_151: 9172810079194145779
+      cielo_nubes_152: -7418586924941118829
+      cielo_nubes_153: 8443352096131936068
+      cielo_nubes_154: 1847862238982080974
+      cielo_nubes_155: -1245585444268225485
+      cielo_nubes_156: -6473319509746433519
+      cielo_nubes_157: -1317862679119897894
+      cielo_nubes_158: -3962269124037842496
+      cielo_nubes_159: -9177764036179450687
+      cielo_nubes_16: 3003684612632155033
+      cielo_nubes_160: 6109866768833623255
+      cielo_nubes_161: -6481235098380549145
+      cielo_nubes_162: -7331615279533896711
+      cielo_nubes_163: 317476885472593318
+      cielo_nubes_164: -2890230633063431092
+      cielo_nubes_165: 2179887395943990715
+      cielo_nubes_166: 196214436603860373
+      cielo_nubes_167: 3029550647859645190
+      cielo_nubes_168: -8388364042165236794
+      cielo_nubes_169: 7549477537356595386
+      cielo_nubes_17: 5325935626739665992
+      cielo_nubes_170: -27114303987338829
+      cielo_nubes_171: 655978023154759369
+      cielo_nubes_172: -4819224840973723991
+      cielo_nubes_173: -5407742502342166910
+      cielo_nubes_174: 1225941981008824524
+      cielo_nubes_175: 8629292999559972294
+      cielo_nubes_176: 8750222391332094685
+      cielo_nubes_177: -2609624276086475867
+      cielo_nubes_178: 8631171704664531737
+      cielo_nubes_179: -5986156758642603621
+      cielo_nubes_18: -1916312759536026530
+      cielo_nubes_180: 2452635783537419077
+      cielo_nubes_181: -59595153717246290
+      cielo_nubes_182: -5175943834471941334
+      cielo_nubes_183: 5795081373978191382
+      cielo_nubes_184: -8022024962965507874
+      cielo_nubes_19: -4633983707638685163
+      cielo_nubes_2: -4935065406834361469
+      cielo_nubes_20: 4228220569312414250
+      cielo_nubes_21: -6419745110437204127
+      cielo_nubes_22: -6872186791416344999
+      cielo_nubes_23: 9222539137614928686
+      cielo_nubes_24: -2993853602773326382
+      cielo_nubes_25: 4287038194266613348
+      cielo_nubes_26: -7892492141397004126
+      cielo_nubes_27: -653559885674293702
+      cielo_nubes_28: 2332247073035974842
+      cielo_nubes_29: -480181683001428800
+      cielo_nubes_3: 5056171854951148790
+      cielo_nubes_30: 3063036829374473152
+      cielo_nubes_31: 741313335376535599
+      cielo_nubes_32: 5626561748564354611
+      cielo_nubes_33: 5260582787547718372
+      cielo_nubes_34: -632054860436084633
+      cielo_nubes_35: -7537883070418075552
+      cielo_nubes_36: -6566686094704581150
+      cielo_nubes_37: 7855560396163205212
+      cielo_nubes_38: -5485032095706984752
+      cielo_nubes_39: 9181725740011039029
+      cielo_nubes_4: 4045320120930904529
+      cielo_nubes_40: -6993727680756214626
+      cielo_nubes_41: -6151998715150551546
+      cielo_nubes_42: 7417593694416867001
+      cielo_nubes_43: -3864939453738903591
+      cielo_nubes_44: 5270921637958600500
+      cielo_nubes_45: 2401739883338853269
+      cielo_nubes_46: 5726375204137148984
+      cielo_nubes_47: -5551592122980729725
+      cielo_nubes_48: 8628413764659041497
+      cielo_nubes_49: -2966037039700920754
+      cielo_nubes_5: -7930398984548706598
+      cielo_nubes_50: -330893158719945304
+      cielo_nubes_51: -4390314477721445975
+      cielo_nubes_52: 4498015605817520237
+      cielo_nubes_53: 7143980365865493918
+      cielo_nubes_54: -2604425202289585842
+      cielo_nubes_55: 1588978494241477290
+      cielo_nubes_56: -1877013693738326531
+      cielo_nubes_57: 711163884436870284
+      cielo_nubes_58: -709820208840616367
+      cielo_nubes_59: -8610808107309730236
+      cielo_nubes_6: -6748306286662149163
+      cielo_nubes_60: -1345842386308354809
+      cielo_nubes_61: -4588902449038186303
+      cielo_nubes_62: 772017533474217366
+      cielo_nubes_63: -4086564311033003878
+      cielo_nubes_64: 2327915423222522653
+      cielo_nubes_65: 1641586959102858950
+      cielo_nubes_66: -1829122950935126283
+      cielo_nubes_67: 6744701835303708576
+      cielo_nubes_68: -5894128566611757081
+      cielo_nubes_69: 7509446129472794748
+      cielo_nubes_7: 2131308080142081418
+      cielo_nubes_70: -5403439215786038569
+      cielo_nubes_71: -1232761664344448396
+      cielo_nubes_72: -8347653562461033907
+      cielo_nubes_73: -4214681836127325593
+      cielo_nubes_74: -1532963672389619809
+      cielo_nubes_75: -2214289885517950227
+      cielo_nubes_76: 2892880174277586179
+      cielo_nubes_77: 4638463406940312222
+      cielo_nubes_78: -6485978607307738029
+      cielo_nubes_79: -4456943821737097989
+      cielo_nubes_8: -8413176479952087950
+      cielo_nubes_80: 8258447140221738503
+      cielo_nubes_81: -2146572548865688525
+      cielo_nubes_82: 1130644628992647987
+      cielo_nubes_83: -5173576379208021999
+      cielo_nubes_84: -7560029740569105125
+      cielo_nubes_85: -2351591315508389366
+      cielo_nubes_86: 6027319240043213960
+      cielo_nubes_87: -7166609354925104027
+      cielo_nubes_88: 7574308541963781445
+      cielo_nubes_89: -755157703129331932
+      cielo_nubes_9: 2881097161994340117
+      cielo_nubes_90: 8788663045203739536
+      cielo_nubes_91: -8701087140669697314
+      cielo_nubes_92: 3062618270583150598
+      cielo_nubes_93: -7052782100951703501
+      cielo_nubes_94: 4675101287828621394
+      cielo_nubes_95: -229193008882034015
+      cielo_nubes_96: 1145108540045203166
+      cielo_nubes_97: 2219813206276889894
+      cielo_nubes_98: -3370016023456128839
+      cielo_nubes_99: -6950694401987364575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

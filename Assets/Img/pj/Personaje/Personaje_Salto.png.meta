@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 7a54ca1310ce8a44c8ab59d862ae4db1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5814723442345953124
+    second: Personaje_Salto_0
+  - first:
+      213: 4798738807083263973
+    second: Personaje_Salto_1
+  - first:
+      213: -7527455974056413006
+    second: Personaje_Salto_2
+  - first:
+      213: -4741046015672701828
+    second: Personaje_Salto_3
+  - first:
+      213: -4327676171660638437
+    second: Personaje_Salto_4
+  - first:
+      213: 8374629518746291175
+    second: Personaje_Salto_5
+  - first:
+      213: -5382800962943166331
+    second: Personaje_Salto_6
+  - first:
+      213: 5445599806943237511
+    second: Personaje_Salto_7
+  - first:
+      213: 988912125704686333
+    second: Personaje_Salto_8
+  - first:
+      213: -3376274968277442220
+    second: Personaje_Salto_9
+  - first:
+      213: 3371343838127388473
+    second: Personaje_Salto_10
+  - first:
+      213: -4282504272386458216
+    second: Personaje_Salto_11
+  - first:
+      213: 8575273226923223555
+    second: Personaje_Salto_12
+  - first:
+      213: -6592473476906275654
+    second: Personaje_Salto_13
+  - first:
+      213: -3861692862408342611
+    second: Personaje_Salto_14
+  - first:
+      213: -2314330708839211252
+    second: Personaje_Salto_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 92
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personaje_Salto_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 982
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467ca20c92c02b050800000000000000
+      internalID: 5814723442345953124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 982
+        width: 197
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7641e258b889240800000000000000
+      internalID: 4798738807083263973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 981
+        width: 196
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b9fb7caa198790800000000000000
+      internalID: -7527455974056413006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_3
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 981
+        width: 195
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2c0494cb643eb0800000000000000
+      internalID: -4741046015672701828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 652
+        width: 150
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17ce3d637101f3c0800000000000000
+      internalID: -4327676171660638437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 652
+        width: 175
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb8f563d29a83470800000000000000
+      internalID: 8374629518746291175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_6
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 652
+        width: 185
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58854232b037c45b0800000000000000
+      internalID: -5382800962943166331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_7
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 654
+        width: 176
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78599c12c28a29b40800000000000000
+      internalID: 5445599806943237511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 322
+        width: 187
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa44beb65259bd00800000000000000
+      internalID: 988912125704686333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 322
+        width: 191
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451a7cbfdcf0521d0800000000000000
+      internalID: -3376274968277442220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 322
+        width: 199
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937f84fcb5b69ce20800000000000000
+      internalID: 3371343838127388473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_11
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 322
+        width: 224
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dff4fcd0d7194c0800000000000000
+      internalID: -4282504272386458216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 184
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a2daee09d710770800000000000000
+      internalID: 8575273226923223555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 32
+        width: 175
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc21d91d44d284a0800000000000000
+      internalID: -6592473476906275654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_14
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 32
+        width: 156
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da34d704dc2886ac0800000000000000
+      internalID: -3861692862408342611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje_Salto_15
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 32
+        width: 159
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f5cde6b78d1efd0800000000000000
+      internalID: -2314330708839211252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Personaje_Salto_0: 5814723442345953124
+      Personaje_Salto_1: 4798738807083263973
+      Personaje_Salto_10: 3371343838127388473
+      Personaje_Salto_11: -4282504272386458216
+      Personaje_Salto_12: 8575273226923223555
+      Personaje_Salto_13: -6592473476906275654
+      Personaje_Salto_14: -3861692862408342611
+      Personaje_Salto_15: -2314330708839211252
+      Personaje_Salto_2: -7527455974056413006
+      Personaje_Salto_3: -4741046015672701828
+      Personaje_Salto_4: -4327676171660638437
+      Personaje_Salto_5: 8374629518746291175
+      Personaje_Salto_6: -5382800962943166331
+      Personaje_Salto_7: 5445599806943237511
+      Personaje_Salto_8: 988912125704686333
+      Personaje_Salto_9: -3376274968277442220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
