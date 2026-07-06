@@ -109,7 +109,11 @@ public class Jugador : MonoBehaviour
         foreach (var hit in hitsAbajo)
         {
             if (hit.collider != null &&
+<<<<<<< HEAD
                 !hit.collider.transform.IsChildOf(transform) &&   // ignora self Y cualquier hijo (Torito)
+=======
+                hit.collider.gameObject != gameObject &&
+>>>>>>> bfc4bb95f63629fd06f830713e54494c825c9769
                 hit.collider.CompareTag("Obstaculo"))
                 return true;
         }
@@ -117,7 +121,11 @@ public class Jugador : MonoBehaviour
         foreach (var hit in hitsArriba)
         {
             if (hit.collider != null &&
+<<<<<<< HEAD
                 !hit.collider.transform.IsChildOf(transform) &&   // ignora self Y cualquier hijo (Torito)
+=======
+                hit.collider.gameObject != gameObject &&
+>>>>>>> bfc4bb95f63629fd06f830713e54494c825c9769
                 hit.collider.CompareTag("Obstaculo"))
                 return true;
         }
